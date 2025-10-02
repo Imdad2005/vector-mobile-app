@@ -6,11 +6,11 @@
 [![Flutter](https://img.shields.io/badge/Flutter-3.9.2-blue.svg?logo=flutter)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-3.0+-blue.svg?logo=dart)](https://dart.dev/)
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android%20%7C%20Web%20%7C%20Desktop-lightgrey)](https://flutter.dev/multi-platform)
-[![License](https://img.shields.io/badge/License-SIH%202025-green.svg)](LICENSE)
+
 
 *Revolutionizing athlete health monitoring with real-time data, AI insights, and comprehensive wellness tracking*
 
-**🏆 Smart India Hackathon 2025 - Medical Technology Track**
+
 
 </div>
 
