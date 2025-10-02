@@ -207,7 +207,7 @@ flutter run
   <br><small>Health Overview</small>
 </td>
 <td align="center" width="20%">
-  <img src="https://img.icons8.com/fluency/48/000000/health-data.png"/>
+  <img src="https://img.icons8.com/color/48/000000/heart-with-pulse.png"/>
   <br><b>🏃‍♂️ Wellness</b>
   <br><small>Fitness Tracking</small>
 </td>
