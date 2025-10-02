@@ -181,7 +181,7 @@ flutter run
 
 <div align="center">
 
-### 🔐 **Authentication (Demo Mode)**
+### 🔐 **Authentication **
 
 </div>
 
